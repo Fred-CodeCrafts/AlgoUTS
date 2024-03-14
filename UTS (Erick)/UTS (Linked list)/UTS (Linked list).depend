@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710344100 source:c:\users\hauw\documents\c related\umn\algo semester 1\uts\uts (linked list)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
