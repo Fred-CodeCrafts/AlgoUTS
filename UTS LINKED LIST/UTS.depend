@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1710786029 source:c:\#semester 2\algo\uts\main.c
-	<stdio.h>
-	<string.h>
-	<stdlib.h>
-	<malloc.h>
-
