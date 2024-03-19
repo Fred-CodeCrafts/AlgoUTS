@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710873774 source:c:\#semester 2\algo\uts (hosea)\array\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
